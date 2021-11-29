@@ -7,5 +7,5 @@ Note that the output of the code written is provided as a means to give you stru
 
 ## Cluster and Notebook Configs
 
-![notebook](assets/notebook.png)
-![cluster](assets/cluster.png)
+![notebook](assets/notebook_configuration.png)
+![cluster](assets/cluster_configuration.png)
