@@ -1,5 +1,5 @@
 # Yelp-Analysis
-# Analyzing 10Gb of Yelp Reviews Data
+# Analyzing 11Gb of Yelp Reviews Data
 
 This project I will analyze a subset of Yelp's business, reviews and user data. \
 This dataset comes to us from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) \
